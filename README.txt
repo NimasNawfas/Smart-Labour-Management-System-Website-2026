@@ -1,3 +1,4 @@
+[cse370: Database. A Database Course Project]
 
 # Introduction: The Smart Labour Management System is an integrated web-based system made to help small and medium-sized businesses automate and simplify workforce management. An integrated platform that manages worker profiles, attendance monitoring, task management, salary processing, leave management, and performance evaluation is created by digitizing conventional manual labor processes for management.
 
@@ -395,5 +396,6 @@
   
 
 Conclusion: This Smart Labour Management System successfully integrates all essential workforce management features into a unified platform. The project demonstrates practical implementation of database management, user authentication, and role-based access control using Flask and MySQL. By combining attendance tracking, task management, salary calculation, and leave systems, it provides a complete solution for efficient workforce administration. The system's modular design allows easy scalability and maintenance, making it suitable for real-world deployment in small to medium organizations.
+
 
 
