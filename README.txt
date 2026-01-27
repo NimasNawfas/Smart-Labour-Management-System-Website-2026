@@ -5,8 +5,7 @@
 
 # Frontend Development : 
 
-  Built the frontend using HTML5, CSS3, and Bootstrap 5 for responsive design across all devices. Jinja2 templating engine (with Flask) dynamically generates pages by injecting 
-  Python data into HTML. Used vanilla JavaScript.
+  Built the frontend using HTML5, CSS3, and Bootstrap 5 for responsive design across all devices. Jinja2 templating engine (with Flask) dynamically generates pages by injecting Python data into HTML. Used vanilla JavaScript.
 
 
   Features:
@@ -396,4 +395,5 @@
   
 
 Conclusion: This Smart Labour Management System successfully integrates all essential workforce management features into a unified platform. The project demonstrates practical implementation of database management, user authentication, and role-based access control using Flask and MySQL. By combining attendance tracking, task management, salary calculation, and leave systems, it provides a complete solution for efficient workforce administration. The system's modular design allows easy scalability and maintenance, making it suitable for real-world deployment in small to medium organizations.
+
 
